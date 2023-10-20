@@ -14,8 +14,9 @@ Hello, my name is Jing Xiong(熊璟), and I am currently a third-year graduate s
 I am currently a research intern at Huawei's Noah's Ark Lab. My research interests primarily include natural language processing, complex reasoning based on language models, and formal theorem proving. I am also interested in analyzing and understanding the reasoning capabilities of neural networks using classic machine learning techniques, such as information bottleneck, influence function, and low-rank decomposition method, etc. If you are also interested in the above-mentioned topics, please feel free to contact me!
 
 
-Publication
+News
 ======
+*10/2023*: One paper is accepted in EMNLP 2023.
 
 A data-driven personal website
 ======
