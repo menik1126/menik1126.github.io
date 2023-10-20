@@ -9,7 +9,7 @@ redirect_from:
 ---
 
  
-Hello, I am currently a third-year graduate student at the School of Intelligent Systems Engineering, Sun Yat-sen University, under the supervision of [Prof. Xiaodan Liang](https://lemondan.github.io/) and Prof. Chengming Li. Before that, I obtained a Bachelor's degree in Computer Science from Central South University in 2021.
+Hello, my name is Jing Xiong(熊璟), and I am currently a third-year graduate student at the School of Intelligent Systems Engineering, Sun Yat-sen University, under the supervision of [Prof. Xiaodan Liang](https://lemondan.github.io/) and Prof. Chengming Li. Before that, I obtained a Bachelor's degree in Computer Science from Central South University in 2021.
 
 
 Publication
