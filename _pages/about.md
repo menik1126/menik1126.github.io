@@ -9,7 +9,7 @@ redirect_from:
 ---
 
  
-Hello, my name is Jing Xiong (熊璟), and I am currently a third-year graduate student at the School of Intelligent Systems Engineering, Sun Yat-sen University, under the supervision of [Prof. Xiaodan Liang](https://lemondan.github.io/) and Prof. Chengming Li. Before that, I obtained a Bachelor's degree in Computer Science from Central South University in 2021.
+Hello, my name is Jing Xiong (熊璟), and I am currently a third-year graduate student at the School of Intelligent Systems Engineering, Sun Yat-sen University, under the supervision of [Prof. Xiaodan Liang](https://lemondan.github.io/) and Prof. Chengming Li. Before that, I obtained my Bachelor's degree in Computer Science from Central South University in 2021.
 
 I am currently a research intern at Huawei's Noah's Ark Lab. My research interests primarily include natural language processing, complex reasoning based on language models, and formal theorem proving. I am also interested in analyzing and understanding the reasoning capabilities of neural networks using classic machine learning techniques, such as information bottleneck, influence function, and low-rank decomposition method, etc. If you are also interested in the above-mentioned topics, please feel free to contact me!
 
