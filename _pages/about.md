@@ -13,7 +13,7 @@ Hello, my name is Jing Xiong (熊璟), and I am currently a third-year graduate 
 
 I am currently a research intern at Huawei's Noah's Ark Lab. My research interests primarily include natural language processing, complex reasoning based on language models, and formal theorem proving. I am also interested in analyzing and understanding the reasoning capabilities of neural networks using classic machine learning techniques, such as information bottleneck, influence function, and low-rank decomposition method, etc. If you are also interested in the above-mentioned topics, please feel free to contact me!
 
-During my internship at the Noah's Ark Lab, I had the opportunity to learn from [Dr. Zhengying Liu](https://scholar.google.com/citations?user=DFme0joAAAAJ&hl=fr) and [Dr. Jianhao Shen](https://scholar.google.com/citations?user=9fppVAUAAAAJ&hl=en). I acquired knowledge in interactive theorem prover Lean and Metamath with a foundation in ZFC set theory. Under the guidance of Dr. Zhengying Liu, I contributed to the development of a prototype theorem verification environment for language models. Additionally, I gained insights into structural prediction from [Dr. Zhijiang Guo](https://cartus.github.io/). As a core member under the leadership of [Dr. Yin Yichun](https://scholar.google.com/citations?user=x3Mz21gAAAAJ&hl=en) and Dr. Guo Zhijiang, I actively participated in the development of the PanGu Manifacture Large Model for the OptVerse AI Solver project. This project successfully made its debut at the Huawei HDC 2023 keynote session, and I was honored with the title of "Star of Manifacture Large Model" within the 2012 Lab.
+During my internship at the Noah's Ark Lab, I had the opportunity to learn from [Dr. Zhengying Liu](https://scholar.google.com/citations?user=DFme0joAAAAJ&hl=fr) and [Dr. Jianhao Shen](https://scholar.google.com/citations?user=9fppVAUAAAAJ&hl=en). I acquired knowledge in interactive theorem prover Lean and Metamath with a foundation in ZFC set theory. Under the guidance of Dr. Zhengying Liu, I contributed to the development of a prototype theorem verification environment for language models. Additionally, I gained insights into structural prediction from [Dr. Zhijiang Guo](https://cartus.github.io/). As a core member under the leadership of [Dr. Yin Yichun](https://scholar.google.com/citations?user=x3Mz21gAAAAJ&hl=en) and Dr. Guo Zhijiang, I actively participated in the development of the PanGu Manifacture Large Model for the OptVerse AI Solver project. This project successfully made its debut at the Huawei HDC 2023 keynote session, and I was honored with the title of "The Star of Manifacture Large Model" within the 2012 Lab.
 
 News
 ======
@@ -21,7 +21,7 @@ News
 *9/2023*: [A paper](https://arxiv.org/pdf/2310.02954) has been submitted to ICLR 2024.  
 *9/2023*: [A paper](https://arxiv.org/abs/2310.00656) has been submitted to ICLR 2024.  
 *5/2023*: [A paper](https://aclanthology.org/2023.acl-long.706/) is accepted in ACL 2023.  
-*5/2022*: [A paper](https://dl.acm.org/doi/10.1145/3477495.3531824) is accepted in ACL SIGIR 2022.  
+*5/2022*: [A paper](https://dl.acm.org/doi/10.1145/3477495.3531824) is accepted in SIGIR 2022.  
 
 
 Publications
