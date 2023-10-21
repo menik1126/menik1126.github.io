@@ -16,13 +16,10 @@ I am currently a research intern at Huawei's Noah's Ark Lab. My research interes
 
 News
 ======
-*10/2023*: [A paper](https://arxiv.org/abs/2310.10180) is accepted in EMNLP 2023.
-
-*9/2023*: [A paper](https://arxiv.org/pdf/2310.02954) has been submitted to ICLR 2024.
-
-*9/2023*: [A paper](https://arxiv.org/abs/2310.00656) has been submitted to ICLR 2024.
-
-*5/2023*: [A paper](https://aclanthology.org/2023.acl-long.706/) is accepted in ACL 2023.
+*10/2023*: [A paper](https://arxiv.org/abs/2310.10180) is accepted in EMNLP 2023.  
+*9/2023*: [A paper](https://arxiv.org/pdf/2310.02954) has been submitted to ICLR 2024.  
+*9/2023*: [A paper](https://arxiv.org/abs/2310.00656) has been submitted to ICLR 2024.  
+*5/2023*: [A paper](https://aclanthology.org/2023.acl-long.706/) is accepted in ACL 2023.  
 
 
 A data-driven personal website
