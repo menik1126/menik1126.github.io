@@ -34,7 +34,7 @@ EMNLP, 2023
 
 DT-Solver: Automated Theorem Proving with Dynamic-Tree Sampling Guided by Proof-level Value Function
 <font color="grey">Haiming Wang, Ye Yuan, Zhengying Liu, Jianhao Shen, Yichun Yin, <font color="black">Jing Xiong</font>, Enze Xie, Han Shi, Yujun Li, Lin Li, Jian Yin, Zhenguo Li, Xiaodan Liang</font>  
-ACL, 2023
+ACL, 2023  
 [arXiv](https://aclanthology.org/2023.acl-long.706/)
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
