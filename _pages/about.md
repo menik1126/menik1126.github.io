@@ -53,7 +53,7 @@ ACL, 2023
 Expression Syntax Information Bottleneck for Math Word Problems  
 <font color="grey"><font color="black">Jing Xiong</font>, Chengming Li, Min Yang, Xiping Hu, Bin Hu</font>  
 SIGIR, 2022  
-[arXiv](https://dl.acm.org/doi/10.1145/3477495.3531824)
+[arXiv](https://dl.acm.org/doi/10.1145/3477495.3531824)  
 [Code](https://github.com/menik1126/math_ESIB)
 
 Self-consistent Reasoning For Solving Math Word Problems
