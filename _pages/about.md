@@ -27,10 +27,11 @@ News
 Publications
 ======
 
-DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning
+DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning  
 
-<font color="grey"><font color="black">Jing Xiong</font>, Zixuan Li, Chuanyang Zheng, Zhijiang Guo, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang</font>
-
+<font color="grey"><font color="black">Jing Xiong</font>, Zixuan Li, Chuanyang Zheng, Zhijiang Guo, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang</font>  
+Submitted to ICLR 2024  
+[arXiv](https://arxiv.org/abs/2310.02954)
 
 TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models  
 
