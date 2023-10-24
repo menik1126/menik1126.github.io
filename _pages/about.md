@@ -27,6 +27,7 @@ News
 Publications
 ======
 TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models  
+
 Jing Xiong*, <font color="grey">Jianhao Shen, Ye Yuan, Haiming Wang, Yichun Yin, Zhengying Liu, Lin Li, Zhijiang Guo, Qingxing Cao, Yinya Huang, Chuanyang Zheng, Xiaodan Liang, Ming Zhang, Qun Liu</font>
 EMNLP, 2023  
 [arXiv](https://arxiv.org/abs/2310.10180)
