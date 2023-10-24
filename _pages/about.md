@@ -29,7 +29,8 @@ Publications
 LEGO-Prover: Neural Theorem Proving with Growing Libraries
 <font color="grey">Huajian Xin, Haiming Wang, Chuanyang Zheng, Lin Li, Zhengying Liu, Qingxing Cao, Yinya Huang, <font color="black">Jing Xiong</font>, Han Shi, Enze Xie, Jian Yin, Zhenguo Li, Xiaodan Liang, Heng Liao</font>  
 Submitted to ICLR 2024  
-[arXiv](https://arxiv.org/abs/2310.00656)
+[arXiv](https://arxiv.org/abs/2310.00656)  
+[Code](https://github.com/wiio12/LEGO-Prover)
 
 DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning  
 
