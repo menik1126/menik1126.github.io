@@ -33,7 +33,7 @@ EMNLP, 2023
 [arXiv](https://arxiv.org/abs/2310.10180)
 
 DT-Solver: Automated Theorem Proving with Dynamic-Tree Sampling Guided by Proof-level Value Function
-<font color="grey">Haiming Wang, Ye Yuan, Zhengying Liu, Jianhao Shen, Yichun Yin, </font>Jing Xiong*, <font color="grey">Enze Xie, Han Shi, Yujun Li, Lin Li, Jian Yin, Zhenguo Li, Xiaodan Liang</font>  
+<font color="grey">Haiming Wang, Ye Yuan, Zhengying Liu, Jianhao Shen, Yichun Yin, </font>Jing Xiong*,<font color="grey">Enze Xie, Han Shi, Yujun Li, Lin Li, Jian Yin, Zhenguo Li, Xiaodan Liang</font>  
 ACL, 2023
 [arXiv](https://aclanthology.org/2023.acl-long.706/)
 
