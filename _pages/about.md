@@ -29,22 +29,22 @@ Publications
 LEGO-Prover: Neural Theorem Proving with Growing Libraries
 <font color="grey">Huajian Xin, Haiming Wang, Chuanyang Zheng, Lin Li, Zhengying Liu, Qingxing Cao, Yinya Huang, <font color="black">Jing Xiong</font>, Han Shi, Enze Xie, Jian Yin, Zhenguo Li, Xiaodan Liang, Heng Liao</font>  
 Submitted to ICLR 2024  
-[arXiv](https://arxiv.org/abs/2310.00656)  
-[Code](https://github.com/wiio12/LEGO-Prover)
+[arXiv](https://arxiv.org/abs/2310.00656), [Code](https://github.com/wiio12/LEGO-Prover)
+
 
 DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning  
 
 <font color="grey"><font color="black">Jing Xiong</font>, Zixuan Li, Chuanyang Zheng, Zhijiang Guo, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang</font>  
 Submitted to ICLR 2024  
-[arXiv](https://arxiv.org/abs/2310.02954)  
-[Code](https://github.com/menik1126/DQ-LoRe)
+[arXiv](https://arxiv.org/abs/2310.02954), [Code](https://github.com/menik1126/DQ-LoRe)
+
 
 TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models  
 
 <font color="grey"><font color="black">Jing Xiong</font>, Jianhao Shen, Ye Yuan, Haiming Wang, Yichun Yin, Zhengying Liu, Lin Li, Zhijiang Guo, Qingxing Cao, Yinya Huang, Chuanyang Zheng, Xiaodan Liang, Ming Zhang, Qun Liu</font>
 EMNLP, 2023  
-[arXiv](https://arxiv.org/abs/2310.10180)  
-[Code](https://github.com/menik1126/TRIGO)
+[arXiv](https://arxiv.org/abs/2310.10180), [Code](https://github.com/menik1126/TRIGO)
+
 
 DT-Solver: Automated Theorem Proving with Dynamic-Tree Sampling Guided by Proof-level Value Function
 <font color="grey">Haiming Wang, Ye Yuan, Zhengying Liu, Jianhao Shen, Yichun Yin, <font color="black">Jing Xiong</font>, Enze Xie, Han Shi, Yujun Li, Lin Li, Jian Yin, Zhenguo Li, Xiaodan Liang</font>  
@@ -54,13 +54,13 @@ ACL, 2023
 Expression Syntax Information Bottleneck for Math Word Problems  
 <font color="grey"><font color="black">Jing Xiong</font>, Chengming Li, Min Yang, Xiping Hu, Bin Hu</font>  
 SIGIR, 2022  
-[arXiv](https://dl.acm.org/doi/10.1145/3477495.3531824)  
-[Code](https://github.com/menik1126/math_ESIB)
+[arXiv](https://dl.acm.org/doi/10.1145/3477495.3531824), [Code](https://github.com/menik1126/math_ESIB)
+
 
 Self-consistent Reasoning For Solving Math Word Problems
 <font color="grey"><font color="black">Jing Xiong</font>, Zhongwei Wan, Xiping Hu, Min Yang, Chengming Li</font>  
-[arXiv](https://arxiv.org/abs/2210.15373)  
-[Code](https://github.com/menik1126/math_SCL)
+[arXiv](https://arxiv.org/abs/2210.15373), [Code](https://github.com/menik1126/math_SCL) 
+
 
 CV
 ======
