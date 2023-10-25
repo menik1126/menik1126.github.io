@@ -62,5 +62,6 @@ Self-consistent Reasoning For Solving Math Word Problems
 [arXiv](https://arxiv.org/abs/2210.15373)  
 [Code](https://github.com/menik1126/math_SCL)
 
-
-
+CV
+======
+Please check my [resume](Jing_Xiong_s_CV_10_25.pdf) here.
