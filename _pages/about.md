@@ -21,7 +21,7 @@ News
 *9/2023*: [A paper](https://arxiv.org/pdf/2310.02954) has been submitted to ICLR 2024.  
 *9/2023*: [A paper](https://arxiv.org/abs/2310.00656) has been submitted to ICLR 2024.  
 *5/2023*: [A paper](https://aclanthology.org/2023.acl-long.706/) is accepted in ACL 2023.  
-*5/2022*: [A paper](https://dl.acm.org/doi/10.1145/3477495.3531824) is accepted in SIGIR 2022.  
+*5/2022*: [A paper](https://arxiv.org/abs/2310.15664) is accepted in SIGIR 2022.  
 
 
 Publications
