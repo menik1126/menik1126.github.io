@@ -17,9 +17,9 @@ During my internship at the Noah's Ark Lab, I had the opportunity to learn from 
 
 News
 ======
-*01/2024*: [A paper](https://arxiv.org/abs/2310.00656) is accepted in ICLR 2024.
-*01/2024*: [A paper](https://arxiv.org/abs/2310.02954) is accepted in ICLR 2024.
-*11/2023*: The paper [TRIGO](https://arxiv.org/abs/2310.10180) has been selected for an oral presentation at EMNLP 2023.
+*01/2024*: [A paper](https://arxiv.org/abs/2310.00656) is accepted in ICLR 2024.  
+*01/2024*: [A paper](https://arxiv.org/abs/2310.02954) is accepted in ICLR 2024.  
+*11/2023*: The paper [TRIGO](https://arxiv.org/abs/2310.10180) has been selected for an oral presentation at EMNLP 2023.  
 *10/2023*: [A paper](https://arxiv.org/abs/2310.10180) is accepted in EMNLP 2023.  
 *9/2023*: [A paper](https://arxiv.org/pdf/2310.02954) has been submitted to ICLR 2024.  
 *9/2023*: [A paper](https://arxiv.org/abs/2310.00656) has been submitted to ICLR 2024.  
