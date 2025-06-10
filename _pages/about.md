@@ -9,14 +9,31 @@ redirect_from:
 ---
 
  
-Hi! My name is Jing Xiong (熊璟), and I am currently a third-year graduate student at the School of Intelligent Systems Engineering, Sun Yat-sen University, under the supervision of [Prof. Xiaodan Liang](https://lemondan.github.io/) and Prof. Chengming Li. Before that, I obtained my Bachelor's degree in Computer Science from Central South University in 2021.
+Hi! My name is Jing Xiong (熊璟), and I am currently a first-year PhD student at the University of Hong Kong, supervised by Prof. Yi Huang and Prof. Lingpeng Kong. I have published multiple papers in top-tier conferences and journals including ICLR, ICML, NeurIPS, ACL, EMNLP, and TMLR. My work primarily focuses on efficient language model inference and automated theorem proving.
 
-My research interests primarily include natural language processing, complex reasoning based on language models, and formal theorem proving. I am also interested in analyzing and understanding the reasoning capabilities of neural networks using classic machine learning techniques, such as information bottleneck, influence function, and low-rank decomposition method, etc. 
+Previously, I obtained my Master's degree from the School of Intelligent Systems Engineering, Sun Yat-sen University, under the supervision of [Prof. Chengming Li](https://ai.smbu.edu.cn/info/1251/1391.htm). Before that, I obtained my Bachelor's degree in Computer Science from Central South University in 2021. I had the honor of collaborating with [Prof. Xiaodan Liang](https://lemondan.github.io/).
 
-During my internship at the Noah's Ark Lab, I had the opportunity to learn from [Dr. Zhengying Liu](https://scholar.google.com/citations?user=DFme0joAAAAJ&hl=fr) and [Dr. Jianhao Shen](https://scholar.google.com/citations?user=9fppVAUAAAAJ&hl=en). I acquired knowledge in interactive theorem prover Lean and Metamath with a foundation in ZFC set theory. Under the guidance of Dr. Zhengying Liu, I contributed to the development of a prototype theorem verification environment based on based on [Metamath](https://us.metamath.org/) for language models. Additionally, I gained insights into structural prediction from [Dr. Zhijiang Guo](https://cartus.github.io/). As a core member under the leadership of [Dr. Yichun Yin](https://scholar.google.com/citations?user=x3Mz21gAAAAJ&hl=en) and Dr. Guo Zhijiang, I actively participated in the development of the PanGu Manifacture Large Model for the OptVerse AI Solver project. This project successfully made its debut at the Huawei HDC 2023 keynote session, and i was honored with the title of "The Star of Manifacture Large Model" in the 2012 Lab.
 
-News
+#### My Interests
+I am interested in research areas related to language modeling, efficient inference, automated theorem proving, and mathematical reasoning.
+
+
+  
+#### Service  
+* Conference reviewer for: NAACL, EMNLP, ACL, ICML, ICLR, NIPS, COLING, etc.
+
+#### Contact Information
+
+Feel free to reach out to me via email at junexiong@connect.hku.hk or xiongj69@mail2.sysu.edu.cn if you have any questions or would like to collaborate!
+
+News  
 ======
+*05/2025*: Two paper are accepted in ACL 2025. 
+*05/2025*: Two paper are accepted in ICML 2025.  
+*03/2025*: [A paper](https://arxiv.org/abs/2404.02690) is accepted in SLLM Workshop at ICLR 2025. This work aims to bridge this gap by examining the inherent sparsity of standard attention processes.
+*03/2025*: [A paper](https://arxiv.org/abs/2411.05902) is accepted in TMLR.  
+*01/2025*: Two paper are accepted in ICLR 2025.  
+*09/2024*: Three paper are accepted in NIPS 2024.  
 *01/2024*: [A paper](https://arxiv.org/abs/2310.00656) is accepted in ICLR 2024.  
 *01/2024*: [A paper](https://arxiv.org/abs/2310.02954) is accepted in ICLR 2024.  
 *11/2023*: The paper [TRIGO](https://arxiv.org/abs/2310.10180) has been selected for an oral presentation at EMNLP 2023.  
@@ -29,6 +46,13 @@ News
 
 Publications
 ======
+Boosting text-to-video generative model with MLLMs feedback
+
+<font color="grey">Xun Wu, Shaohan Huang, Guolong Wang, <font color="black">Jing Xiong</font>, Furu Wei</font>  
+ICLR, 2024  
+[arXiv](https://proceedings.neurips.cc/paper_files/paper/2024/file/fbe2b2f74a2ece8070d8fb073717bda6-Paper-Conference.pdf)
+
+
 LEGO-Prover: Neural Theorem Proving with Growing Libraries
 
 <font color="grey">Huajian Xin, Haiming Wang, Chuanyang Zheng, Lin Li, Zhengying Liu, Qingxing Cao, Yinya Huang, <font color="black">Jing Xiong</font>, Han Shi, Enze Xie, Jian Yin, Zhenguo Li, Xiaodan Liang, Heng Liao</font>  
