@@ -46,7 +46,26 @@ News
 
 Publications
 ======
-Autoregressive Models in Vision: A Survey
+MEIT: Multi-Modal Electrocardiogram Instruction Tuning on Large Language Models for Report Generation  
+ACL2025  
+[arXiv](https://arxiv.org/abs/2403.04945), [Code](https://github.com/AIoT-MLSys-Lab/MEIT)
+
+DAPE V2: Process Attention Score as Feature Map for Length Extrapolation  
+ACL2025
+<font color="grey">Chuanyang Zheng, Yihang Gao, Han Shi, <font color="black">Jing Xiong</font>, Jiankai Sun, Jingyao Li, Minbin Huang, Xiaozhe Ren, Michael Ng, Xin Jiang, Zhenguo Li, Yu Li</font>  
+[arXiv](https://arxiv.org/abs/2410.04798), [Code](https://github.com/chuanyang-Zheng/DAPE)
+
+ParallelComp: Parallel Long-Context Compressor for Length Extrapolation  
+ICML2025  
+<font color="grey"><font color="black">Jing Xiong</font>, Jianghan Shen, Chuanyang Zheng, Zhongwei Wan, Chenyang Zhao, Chiwun Yang, Fanghua Ye, Hongxia Yang, Lingpeng Kong, Ngai Wong</font>  
+[arXiv](https://arxiv.org/abs/2502.14317),  [Code](https://github.com/menik1126/ParallelComp)
+
+How Sparse Attention Approximates Exact Attention? Your Attention is Naturally n^C-Sparse  
+SLLM  
+<font color="grey">Yichuan Deng, Zhao Song, <font color="black">Jing Xiong</font>, Chiwun Yang</font>  
+[arXiv](https://arxiv.org/abs/2404.02690)
+
+Autoregressive Models in Vision: A Survey  
 TMLR
 <font color="grey"><font color="black">Jing Xiong</font>, Gongye Liu, Lun Huang, Chengyue Wu, Taiqiang Wu, Yao Mu, Yuan Yao, Hui Shen, Zhongwei Wan, Jinfa Huang, Chaofan Tao, Shen Yan, Huaxiu Yao, Lingpeng Kong, Hongxia Yang, Mi Zhang, Guillermo Sapiro, Jiebo Luo, Ping Luo, Ngai Wong</font>  
 [arXiv](https://arxiv.org/abs/2411.05902),  [Code](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey),  [Video](https://drive.google.com/file/d/1jEu0zf3jplhRXymnsb2eZy5avvSl868W/view)
