@@ -51,7 +51,7 @@ ACL2025
 [arXiv](https://arxiv.org/abs/2403.04945), [Code](https://github.com/AIoT-MLSys-Lab/MEIT)
 
 DAPE V2: Process Attention Score as Feature Map for Length Extrapolation  
-ACL2025
+ACL2025  
 <font color="grey">Chuanyang Zheng, Yihang Gao, Han Shi, <font color="black">Jing Xiong</font>, Jiankai Sun, Jingyao Li, Minbin Huang, Xiaozhe Ren, Michael Ng, Xin Jiang, Zhenguo Li, Yu Li</font>  
 [arXiv](https://arxiv.org/abs/2410.04798), [Code](https://github.com/chuanyang-Zheng/DAPE)
 
@@ -60,83 +60,75 @@ ICML2025
 <font color="grey"><font color="black">Jing Xiong</font>, Jianghan Shen, Chuanyang Zheng, Zhongwei Wan, Chenyang Zhao, Chiwun Yang, Fanghua Ye, Hongxia Yang, Lingpeng Kong, Ngai Wong</font>  
 [arXiv](https://arxiv.org/abs/2502.14317),  [Code](https://github.com/menik1126/ParallelComp)
 
-How Sparse Attention Approximates Exact Attention? Your Attention is Naturally n^C-Sparse  
+How Sparse Attention Approximates Exact Attention? Your Attention is Naturally n^C-Sparse   
 SLLM  
 <font color="grey">Yichuan Deng, Zhao Song, <font color="black">Jing Xiong</font>, Chiwun Yang</font>  
 [arXiv](https://arxiv.org/abs/2404.02690)
 
 Autoregressive Models in Vision: A Survey  
-TMLR
+TMLR  
 <font color="grey"><font color="black">Jing Xiong</font>, Gongye Liu, Lun Huang, Chengyue Wu, Taiqiang Wu, Yao Mu, Yuan Yao, Hui Shen, Zhongwei Wan, Jinfa Huang, Chaofan Tao, Shen Yan, Huaxiu Yao, Lingpeng Kong, Hongxia Yang, Mi Zhang, Guillermo Sapiro, Jiebo Luo, Ping Luo, Ngai Wong</font>  
 [arXiv](https://arxiv.org/abs/2411.05902),  [Code](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey),  [Video](https://drive.google.com/file/d/1jEu0zf3jplhRXymnsb2eZy5avvSl868W/view)
 
 
-FormalAlign: Automated Alignment Evaluation for Autoformalization
-
-<font color="grey">Jianqiao Lu, Yingjia Wan, Yinya Huang, <font color="black">Jing Xiong</font>, Zhengying Liu, Zhijiang Guo</font>  
-ICLR, 2025  
+FormalAlign: Automated Alignment Evaluation for Autoformalization  
+ICLR2025  
+<font color="grey">Jianqiao Lu, Yingjia Wan, Yinya Huang, <font color="black">Jing Xiong</font>, Zhengying Liu, Zhijiang Guo</font>    
 [arXiv](https://arxiv.org/abs/2410.10135),  [Code](https://github.com/rookie-joe/FormalAlign)  
 
 
-D2O: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models
-
+D2O: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models  
 <font color="grey">Zhongwei Wan, Xinjian Wu, Yu Zhang, Yi Xin, Chaofan Tao, Zhihong Zhu, Xin Wang, Siqi Luo, <font color="black">Jing Xiong</font>, Longyue Wang, Mi Zhang</font>  
-ICLR, 2025  
+ICLR2025  
 [arXiv](https://arxiv.org/abs/2406.13035),  [Code](https://github.com/AIoT-MLSys-Lab/d2o)   
 
 
-CAPE: Context-Adaptive Positional Encoding for Length Extrapolation
-
+CAPE: Context-Adaptive Positional Encoding for Length Extrapolation  
 <font color="grey">Xun Wu, Shaohan Huang, Guolong Wang, <font color="black">Jing Xiong</font>, Furu Wei</font>  
-Nips, 2024  
+Nips2024  
 [arXiv](https://arxiv.org/html/2405.14722v1),  [Code](https://github.com/chuanyang-Zheng/DAPE)   
 
 
 
 
-Multimodal large language models make text-to-image generative models align better
-
+Multimodal large language models make text-to-image generative models align better  
 <font color="grey">Xun Wu, Shaohan Huang, Guolong Wang, <font color="black">Jing Xiong</font>, Furu Wei</font>  
-Nips, 2024  
+Nips2024  
 [arXiv](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9421261e06f1a63a352b068f1ac90609-Abstract-Conference.html), [Code](https://github.com/yushuiwx/VisionPrefer.git)
 
 
-Boosting text-to-video generative model with MLLMs feedback
-
+Boosting text-to-video generative model with MLLMs feedback  
 <font color="grey">Xun Wu, Shaohan Huang, Guolong Wang, <font color="black">Jing Xiong</font>, Furu Wei</font>  
-Nips, 2024  
+Nips2024  
 [arXiv](https://proceedings.neurips.cc/paper_files/paper/2024/file/fbe2b2f74a2ece8070d8fb073717bda6-Paper-Conference.pdf)
 
 
-LEGO-Prover: Neural Theorem Proving with Growing Libraries
-
+LEGO-Prover: Neural Theorem Proving with Growing Libraries  
 <font color="grey">Huajian Xin, Haiming Wang, Chuanyang Zheng, Lin Li, Zhengying Liu, Qingxing Cao, Yinya Huang, <font color="black">Jing Xiong</font>, Han Shi, Enze Xie, Jian Yin, Zhenguo Li, Xiaodan Liang, Heng Liao</font>  
-ICLR, 2024  
+ICLR2024  
 [arXiv](https://arxiv.org/abs/2310.00656), [Code](https://github.com/wiio12/LEGO-Prover)
 
 
 DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning  
-
 <font color="grey"><font color="black">Jing Xiong</font>, Zixuan Li, Chuanyang Zheng, Zhijiang Guo, Yichun Yin, Enze Xie, Zhicheng Yang, Qingxing Cao, Haiming Wang, Xiongwei Han, Jing Tang, Chengming Li, Xiaodan Liang</font>  
-ICLR, 2024  
+ICLR2024  
 [arXiv](https://arxiv.org/abs/2310.02954), [Code](https://github.com/AI4fun/DQ-LoRe)
 
 
 TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models  
-
 <font color="grey"><font color="black">Jing Xiong</font>, Jianhao Shen, Ye Yuan, Haiming Wang, Yichun Yin, Zhengying Liu, Lin Li, Zhijiang Guo, Qingxing Cao, Yinya Huang, Chuanyang Zheng, Xiaodan Liang, Ming Zhang, Qun Liu</font>
-EMNLP, 2023  
+EMNLP2023  
 [arXiv](https://arxiv.org/abs/2310.10180), [Code](https://github.com/menik1126/TRIGO), [Video](https://aclanthology.org/2023.emnlp-main.711.mp4)
 
 
 DT-Solver: Automated Theorem Proving with Dynamic-Tree Sampling Guided by Proof-level Value Function
 <font color="grey">Haiming Wang, Ye Yuan, Zhengying Liu, Jianhao Shen, Yichun Yin, <font color="black">Jing Xiong</font>, Enze Xie, Han Shi, Yujun Li, Lin Li, Jian Yin, Zhenguo Li, Xiaodan Liang</font>  
-ACL, 2023  
+ACL2023  
 [arXiv](https://aclanthology.org/2023.acl-long.706/)
 
 Expression Syntax Information Bottleneck for Math Word Problems  
 <font color="grey"><font color="black">Jing Xiong</font>, Chengming Li, Min Yang, Xiping Hu, Bin Hu</font>  
-SIGIR, 2022  
+SIGIR2022  
 [arXiv](https://dl.acm.org/doi/10.1145/3477495.3531824), [Code](https://github.com/menik1126/math_ESIB), [Video](https://dl.acm.org/doi/suppl/10.1145/3477495.3531824/suppl_file/SIGIR22-sp1591.mp4)
 
 
