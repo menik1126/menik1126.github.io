@@ -30,7 +30,7 @@ News
 ======
 *05/2025*: Two paper are accepted in ACL 2025. 
 *05/2025*: Two paper are accepted in ICML 2025.  
-*03/2025*: [A paper](https://arxiv.org/abs/2404.02690) is accepted in SLLM Workshop at ICLR 2025. This work aims to bridge this gap by examining the inherent sparsity of standard attention processes.
+*03/2025*: [A paper](https://arxiv.org/abs/2404.02690) is accepted in SLLM Workshop at ICLR 2025. This work aims to bridge this gap by examining the inherent sparsity of standard attention processes.  
 *03/2025*: [A paper](https://arxiv.org/abs/2411.05902) is accepted in TMLR.  
 *01/2025*: Two paper are accepted in ICLR 2025.  
 *09/2024*: Three paper are accepted in NIPS 2024.  
