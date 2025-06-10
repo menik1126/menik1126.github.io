@@ -46,10 +46,46 @@ News
 
 Publications
 ======
+Autoregressive Models in Vision: A Survey
+TMLR
+<font color="grey"><font color="black">Jing Xiong</font>, Gongye Liu, Lun Huang, Chengyue Wu, Taiqiang Wu, Yao Mu, Yuan Yao, Hui Shen, Zhongwei Wan, Jinfa Huang, Chaofan Tao, Shen Yan, Huaxiu Yao, Lingpeng Kong, Hongxia Yang, Mi Zhang, Guillermo Sapiro, Jiebo Luo, Ping Luo, Ngai Wong</font>  
+[arXiv](https://arxiv.org/abs/2411.05902),  [Code](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey),  [Video](https://drive.google.com/file/d/1jEu0zf3jplhRXymnsb2eZy5avvSl868W/view)
+
+
+FormalAlign: Automated Alignment Evaluation for Autoformalization
+
+<font color="grey">Jianqiao Lu, Yingjia Wan, Yinya Huang, <font color="black">Jing Xiong</font>, Zhengying Liu, Zhijiang Guo</font>  
+ICLR, 2025  
+[arXiv](https://arxiv.org/abs/2410.10135),  [Code](https://github.com/rookie-joe/FormalAlign)  
+
+
+D2O: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models
+
+<font color="grey">Zhongwei Wan, Xinjian Wu, Yu Zhang, Yi Xin, Chaofan Tao, Zhihong Zhu, Xin Wang, Siqi Luo, <font color="black">Jing Xiong</font>, Longyue Wang, Mi Zhang</font>  
+ICLR, 2025  
+[arXiv](https://arxiv.org/abs/2406.13035),  [Code](https://github.com/AIoT-MLSys-Lab/d2o)   
+
+
+CAPE: Context-Adaptive Positional Encoding for Length Extrapolation
+
+<font color="grey">Xun Wu, Shaohan Huang, Guolong Wang, <font color="black">Jing Xiong</font>, Furu Wei</font>  
+Nips, 2024  
+[arXiv](https://arxiv.org/html/2405.14722v1),  [Code](https://github.com/chuanyang-Zheng/DAPE)   
+
+
+
+
+Multimodal large language models make text-to-image generative models align better
+
+<font color="grey">Xun Wu, Shaohan Huang, Guolong Wang, <font color="black">Jing Xiong</font>, Furu Wei</font>  
+Nips, 2024  
+[arXiv](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9421261e06f1a63a352b068f1ac90609-Abstract-Conference.html), [Code](https://github.com/yushuiwx/VisionPrefer.git)
+
+
 Boosting text-to-video generative model with MLLMs feedback
 
 <font color="grey">Xun Wu, Shaohan Huang, Guolong Wang, <font color="black">Jing Xiong</font>, Furu Wei</font>  
-ICLR, 2024  
+Nips, 2024  
 [arXiv](https://proceedings.neurips.cc/paper_files/paper/2024/file/fbe2b2f74a2ece8070d8fb073717bda6-Paper-Conference.pdf)
 
 
