@@ -47,6 +47,7 @@ News
 Publications
 ======
 MEIT: Multi-Modal Electrocardiogram Instruction Tuning on Large Language Models for Report Generation  
+<font color="grey">Zhongwei Wan, Zhongwei_Wan, Che Liu, Xin Wang, Chaofan Tao, Hui Shen, <font color="black">Jing Xiong</font>, Rossella Arcucci, Huaxiu Yao, Mi Zhang</font>  
 ACL2025  
 [arXiv](https://arxiv.org/abs/2403.04945), [Code](https://github.com/AIoT-MLSys-Lab/MEIT)
 
