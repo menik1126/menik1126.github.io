@@ -107,7 +107,7 @@ TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language 
 
 <font color="grey"><font color="black">Jing Xiong</font>, Jianhao Shen, Ye Yuan, Haiming Wang, Yichun Yin, Zhengying Liu, Lin Li, Zhijiang Guo, Qingxing Cao, Yinya Huang, Chuanyang Zheng, Xiaodan Liang, Ming Zhang, Qun Liu</font>
 EMNLP, 2023  
-[arXiv](https://arxiv.org/abs/2310.10180), [Code](https://github.com/menik1126/TRIGO)
+[arXiv](https://arxiv.org/abs/2310.10180), [Code](https://github.com/menik1126/TRIGO), [Video](https://aclanthology.org/2023.emnlp-main.711.mp4)
 
 
 DT-Solver: Automated Theorem Proving with Dynamic-Tree Sampling Guided by Proof-level Value Function
@@ -118,7 +118,7 @@ ACL, 2023
 Expression Syntax Information Bottleneck for Math Word Problems  
 <font color="grey"><font color="black">Jing Xiong</font>, Chengming Li, Min Yang, Xiping Hu, Bin Hu</font>  
 SIGIR, 2022  
-[arXiv](https://dl.acm.org/doi/10.1145/3477495.3531824), [Code](https://github.com/menik1126/math_ESIB)
+[arXiv](https://dl.acm.org/doi/10.1145/3477495.3531824), [Code](https://github.com/menik1126/math_ESIB), [Video](https://dl.acm.org/doi/suppl/10.1145/3477495.3531824/suppl_file/SIGIR22-sp1591.mp4)
 
 
 Self-consistent Reasoning For Solving Math Word Problems
